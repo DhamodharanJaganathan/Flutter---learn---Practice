@@ -4,6 +4,8 @@ import './app_screens/first_screen.dart';
 
 void main() => runApp(new MyFlutterApp());
 
+// Widgets
+
 class MyFlutterApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
